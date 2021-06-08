@@ -1,1 +1,1 @@
-see the Pluto notebook (Julia)! If you can't open those, you can open the HTML/PDF versions (:
+see the Pluto notebook (Julia)! It's not super straightforward to run (you need the images in the 'Images May 25 2020 - May 24 2021' folder) so I also attached a static HTML version. 
